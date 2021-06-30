@@ -42,3 +42,4 @@ The bot will then DM the bot owner.
     
     casino
     marriage
+    profile
