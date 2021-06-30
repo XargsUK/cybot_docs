@@ -1,7 +1,7 @@
 ===============
 Casino
 ===============
-.. important:: <amount> only currently supports numbers, so things like ``!bj all``will not work at the moment.
+.. important:: <amount> only currently supports numbers, so things like !bj all will not work at the moment.
 
 ------------
 List of commands
