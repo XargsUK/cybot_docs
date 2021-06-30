@@ -21,3 +21,9 @@ Without court, cost is multiplied same as !marry as well as by a pre-defined mul
 ``!perform <action> <target> [item]`` - Do something with someone. Available actions are flirt, fuck, dinner, date, and gift. 
 If you choose gift, available gifts are flower, sweets, alcohol, loveletter, food, makeup, car, yacht, and house.
 Note that if these are performed on someone but your spouse(s), your spouse(s) lose certain amount of temper. Once temper is 0, your spouse(s) leave you and take all your money.
+
+------------
+Scope 
+------------
+#bot-spam
+#degen-chat 
