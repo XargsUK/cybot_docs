@@ -32,8 +32,7 @@ Welcome to CyBot's documentation!
 Issues?
 ------------
 
-If you have any issues with CyBot, run ``!contact <message>``
-The bot will then DM the bot owner. If you notice any issues with this documentation, either contact me using the above, or contribute to the documentation directly on https://github.com/XargsUK/cybot_docs
+If you have any issues with CyBot, run ``!contact <message>``. The bot will then DM the bot owner. If you notice any issues with this documentation, either contact me using the above, or contribute to the documentation directly on https://github.com/XargsUK/cybot_docs.
 
 ------------
 How to Use These Docs
