@@ -45,3 +45,8 @@ The bot will then DM the bot owner.
     profile
     ratings
     cycoins
+    trivia
+    stocks
+    random
+    music
+    time
