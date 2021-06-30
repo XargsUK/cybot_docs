@@ -34,3 +34,11 @@ Issues?
 
 If you have any issues with CyBot, run ``!contact <message>``
 The bot will then DM the bot owner. 
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Available Commands
+    
+    casino
+    marriage
