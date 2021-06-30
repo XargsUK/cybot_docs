@@ -5,7 +5,7 @@ Marriage
 ------------
 List of commands
 ------------
-``!about add <about>`` - Add y our about text. Maximum is 1000 characters.
+``!about add <about>`` - Add your about text. Maximum is 1000 characters.
 
 ``!about [member]`` - Display someone's about. If member is not specified, it shows yours.
 
