@@ -16,6 +16,10 @@ List of commands
 
 ``!claim all`` - Get all your paychecks.
 
+``!bank balance`` - Checks your bank balance
+
+``!bank transfer <user> <amount>`` - Transfers CyCoins from your bank to someone elses
+
 ------------
 Scope
 ------------
