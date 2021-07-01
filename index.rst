@@ -38,8 +38,8 @@ If you have any issues with CyBot, run ``!contact <message>``. The bot will then
 How to Use These Docs
 ------------
 ``<words>`` - If a term is surrounded by <> this means that it's a required field. 
-``[words]`` - If a terms is surrounded by [] this means it's an optional field. 
-Scope - Scope defines the channels where the commands can be ran. 
+``[words]`` - If a term is surrounded by [] this means it's an optional field. 
+``Scope`` - Scope defines the channels where the commands can be ran. 
 
 
 .. toctree::
