@@ -1,7 +1,7 @@
 ===============
-Stocks & Crypto
+Stocks
 ===============
-Buy and sell stocks/crypto with CyCoins!
+Buy and sell stocks with CyCoins!
 
 .. important:: $1 is 100 CyCoin. 
 
