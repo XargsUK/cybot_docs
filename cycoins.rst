@@ -13,13 +13,28 @@ Bank Management
 ------------
 Claim Paychecks
 ------------
+Every hour, day, week and month you can collect a paycheck. If you get a streak in claims, you also get a % bonus!  
+
++---------+--------+--------+
+|         | Amount | Streak |
++=========+========+========+
+| Hourly  | 2000   | +20%   |
++---------+--------+--------+
+| Daily   | 10000  | +20%   |
++---------+--------+--------+
+| Weekly  | 60000  | +30%   |
++---------+--------+--------+
+| Monthly | 360000 | +35%   |
++---------+--------+--------+
+
+
 ``!claim hourly`` - Get your hourly paycheck.
 
-``!claim daily`` - Get your hourly paycheck.
+``!claim daily`` - Get your daily paycheck.
 
-``!claim weekly`` - Get your hourly paycheck.
+``!claim weekly`` - Get your weekly paycheck.
 
-``!claim monthly`` - Get your hourly paycheck.
+``!claim monthly`` - Get your monthly paycheck.
 
 ``!claim all`` - Get all your paychecks.
 
