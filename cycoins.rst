@@ -43,7 +43,7 @@ Recycling Plant
 ------------
 .. important:: Once you've started the job, exiting the job will result in 0 payout. If you type anything other than trash or recycle during the work, you will get a different prompt. 
 
-You can earn additional funds every 4 hours for doing some recycling work. Your job is to sort through different items and decide whether they should go in the ``trash`` or if they should be ``recycled``. The work will continue until you either sort 10 items correctly, or you type ``exit``. If you get to 10 items without any mistakes you get the maximum payout of 500 CyCoins! For every mistake, you lose -50 from the potential earnings. For example, you answer 5 incorrectly, and 10 correctly; Correct:10\*50=500 Incorrect=5\*-50=-250 Payout=500-250=250.
+You can earn additional funds every 4 hours for doing some recycling work. Your job is to sort through different items and decide whether they should go in the ``trash`` or if they should be ``recycled``. The work will continue until you either sort 10 items correctly, or you type ``exit``. If you get to 10 items without any mistakes you get the maximum payout of 5000 CyCoins! For every mistake, you lose -500 from the potential earnings. For example, you answer 5 incorrectly, and 10 correctly; Correct:10\*500=5000 Incorrect=5\*-500=-2500 Payout=500-250=2500.
 
 ``!recyclingplant`` - Starts the recycling plant work
 

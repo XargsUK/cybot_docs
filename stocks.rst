@@ -1,9 +1,9 @@
 ===============
-Stocks
+Stocks & Crypto
 ===============
-Buy and sell stocks with CyCoins!
+Buy and sell stocks/crypto with CyCoins!
 
-.. important:: $1 is 1 CyCoin, so if a stock below $1 is bought, it will always round up to the nearest dollar. 
+.. important:: $1 is 100 CyCoin. 
 
 ------------
 List of commands
