@@ -47,12 +47,13 @@ How to Use These Docs
     :caption: Available Commands
     
     casino
+    stocks
+    crypto
+    cycoins
     marriage
     profile
     ratings
-    cycoins
     trivia
-    stocks
     random
     music
     time
