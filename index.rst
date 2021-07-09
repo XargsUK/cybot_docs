@@ -50,6 +50,7 @@ How to Use These Docs
     stocks
     crypto
     cycoins
+    shop
     marriage
     profile
     ratings
