@@ -61,3 +61,5 @@ How to Use These Docs
     music
     time
     birthday
+    avatar
+    russianroulette
