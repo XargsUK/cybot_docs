@@ -62,4 +62,4 @@ How to Use These Docs
     time
     birthday
     avatar
-    russian roulette
+    russianroulette
