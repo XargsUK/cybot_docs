@@ -60,5 +60,6 @@ How to Use These Docs
     random
     music
     time
+    birthday
     avatar
-    russian roulette
+    russian
