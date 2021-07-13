@@ -60,3 +60,5 @@ How to Use These Docs
     random
     music
     time
+    avatar
+    russian roulette
