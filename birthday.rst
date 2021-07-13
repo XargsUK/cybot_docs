@@ -13,4 +13,4 @@ List of commands
 ------------
 Scope 
 ------------
-#birthdays
+#bot-spam
