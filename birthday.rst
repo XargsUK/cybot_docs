@@ -1,7 +1,7 @@
 ===============
 Birthday
 ===============
-.. important:: The birthday command allows you to set your birthday so you can get a special role on the day! We recommend just entering the month and day. Abuse of this command to update the birthday multiple times will result in restrictions in updating your birthday in future. 
+.. important:: The birthday command allows you to set your birthday so you can get a special role on the day! We recommend just entering the month and day. Abuse of this command by updating your birthday multiple times will result in restrictions in updating your birthday in future. 
 
 ------------
 List of commands
