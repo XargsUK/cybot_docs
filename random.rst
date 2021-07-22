@@ -19,6 +19,9 @@ List of commands
 
 ``!uwu <text>`` - UwU your text! 
 
+``!avatar [@user]`` - Sends a png/gif of avatar of the tagged user.
+
+
 ------------
 Scope
 ------------

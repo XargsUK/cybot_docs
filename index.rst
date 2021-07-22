@@ -61,3 +61,4 @@ How to Use These Docs
     music
     time
     reminders
+    birthday
