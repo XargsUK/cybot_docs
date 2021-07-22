@@ -60,3 +60,4 @@ How to Use These Docs
     random
     music
     time
+    reminders
