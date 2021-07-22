@@ -16,8 +16,11 @@ List of commands
 Examples
 ------------
 ``!remindme in 8min45sec to do that thing``
+
 ``!remindme to water my plants in 2 hours``
+
 ``!remindme in 3 days`` - This will just send a reminder in 3 days. 
+
 ``!remindme in 1 hour to drink some water every 1 day`` - This sets up a repeat reminder. 
 
 ------------
